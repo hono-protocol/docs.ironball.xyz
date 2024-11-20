@@ -1,4 +1,4 @@
-# Term of Use
+# Terms of Service
 
 **Last Updated on 20 November 2024**
 
@@ -241,7 +241,7 @@ Any Digital Assets misappropriated or obtained as a result of or in connection w
 
 ### 24. RISK DISCLOSURE STATEMENT
 
-By accepting these Terms you hereby expressly acknowledge, accept, and assume the risks set out in our risk disclosure statement. You hereby acknowledge, accept, and assume the risks set out in the risk disclosure statement and represent that neither we nor Related Parties shall be held liable or responsible for any damages or losses arising from or in connection with such risks. You hereby release, discharge and waive any and all claims, whether known or unknown, that you have or may have against us and Related Parties that relate to or arise in connection with any of the risks set out in the risk disclosure statement.
+By accepting these Terms you hereby expressly acknowledge, accept, and assume the risks set out in our risk disclosure statement. You hereby acknowledge, accept, and assume the risks set out in the [risk disclosure statement](risks-disclosure-statement.md) and represent that neither we nor Related Parties shall be held liable or responsible for any damages or losses arising from or in connection with such risks. You hereby release, discharge and waive any and all claims, whether known or unknown, that you have or may have against us and Related Parties that relate to or arise in connection with any of the risks set out in the risk disclosure statement.
 
 ### 25. APPLICABLE LAW
 

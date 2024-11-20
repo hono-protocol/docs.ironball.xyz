@@ -1,7 +1,3 @@
----
-description: Risks Disclosure Statement
----
-
 # Risks Disclosure Statement
 
 **Last Updated on 20 November 2024**
