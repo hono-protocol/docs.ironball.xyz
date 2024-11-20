@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Term of Use](README.md)
+* [Terms of Service](README.md)
+* [Risks Disclosure Statement](risks-disclosure-statement.md)
