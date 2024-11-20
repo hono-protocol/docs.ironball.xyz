@@ -38,7 +38,7 @@ Please kindly note that the Address and information related to the Transactions 
 
 ### How long we process your data
 
-Since we cannot identify you as an individual using your Address and information related to the Transactions, we do not have any storage limitation. Also note that due to the nature of the blockchain, such information may be accessed and viewed by us or any third party at any time. We store the contact data for one (1) year from the date when you contacted us. We set this retention period during the statutes of limitations established in our [Terms of Service](./). In case of pending legal actions, we may process the contact data longer.
+Since we cannot identify you as an individual using your Address and information related to the Transactions, we do not have any storage limitation. Also note that due to the nature of the blockchain, such information may be accessed and viewed by us or any third party at any time. We store the contact data for one (1) year from the date when you contacted us. We set this retention period during the statutes of limitations established in our [Terms of Service](<README (1).md>). In case of pending legal actions, we may process the contact data longer.
 
 ### Third-party links
 
