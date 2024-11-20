@@ -2,7 +2,7 @@
 
 **Last Updated on 20 November 2024**
 
-The website and Application (app) available at ironball.xyz (collectively, “**Platform**”) are provided by HONO Protocol (“**we**”, “**our**”, “**us**”). With respect to personal data collected on the Platform we may be considered a data controller.
+The website and Application (app) available at ironball.xyz (collectively, “**Platform**”) are provided by IRONBALL (“**we**”, “**our**”, “**us**”). With respect to personal data collected on the Platform we may be considered a data controller.
 
 In this Privacy Notice we explain how your personal data is collected and processed. Personal data and personal information are used as synonyms and mean any information directly or indirectly identifies you as an individual.
 

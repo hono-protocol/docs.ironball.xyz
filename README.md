@@ -2,7 +2,7 @@
 
 **Last Updated on 20 November 2024**
 
-These IRONBALL Terms of Service (these “**Terms**”) govern your access to and use of the IRONBALL platform available at ironball.xyz (the “**Platform**”, "**Application**" or "**Website**"). The Platform is provided by the HONO Protocol (“**we**”, “**us**” or “**our**”).
+These IRONBALL Terms of Service (these “**Terms**”) govern your access to and use of the IRONBALL platform available at ironball.xyz (the “**Platform**”, "**Application**" or "**Website**"). The Platform is provided by IRONBALL (“**we**”, “**us**” or “**our**”).
 
 By accessing or using the Platform, connecting your Digital Wallet (as defined below) to the Application, or by clicking the button “I accept” or respective check box in connection with or relating to these Terms, you (“**you**”, “**your**”) acknowledge that you have read, accept without modifications and agree to be bound by these Terms and all terms incorporated herein by reference, which form a legally binding agreement between you and us. If you do not accept or agree to these Terms, you are not allowed to access or use the Platform, and must immediately discontinue any use thereof.
 
