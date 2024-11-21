@@ -11,7 +11,9 @@
 
 ## Platform
 
-* [Page 1](platform/page-1.md)
+* [Getting Started](platform/getting-started.md)
+* [Creating an NFT Collection](platform/creating-an-nft-collection.md)
+* [Unique Images with IPFS](platform/unique-images-with-ipfs.md)
 
 ***
 
