@@ -14,6 +14,13 @@
 * [Getting Started](platform/getting-started.md)
 * [Creating an NFT Collection](platform/creating-an-nft-collection.md)
 * [Unique Images with IPFS](platform/unique-images-with-ipfs.md)
+* [Minting an NFT](platform/minting-an-nft.md)
+* [Boosting an NFT collection](platform/boosting-an-nft-collection.md)
+
+## Benefits
+
+* [Leaderboard Rewards](benefits/leaderboard-rewards.md)
+* [IRONBALL Keys](benefits/ironball-keys.md)
 
 ***
 
