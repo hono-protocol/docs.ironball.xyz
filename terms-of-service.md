@@ -1,7 +1,3 @@
----
-description: '"TOS"'
----
-
 # Terms of Service
 
 **Last Updated on 20 November 2024**
