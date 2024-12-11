@@ -20,6 +20,11 @@
     - [Leaderboard Rewards](benefits/leaderboard-rewards.md)
     - [IRONBALL Keys](benefits/ironball-keys.md)
 
+- Technical
+
+    - [Contracts](technical/contracts.md)
+    - [System Updates](technical/system-updates.md)
+
 ***
 
 - [Terms of Service](terms-of-service.md)
