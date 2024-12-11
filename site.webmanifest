@@ -1,0 +1,16 @@
+{
+    "name": "IRONBALL Documentation",
+    "short_name": "IRONBALL Docs",
+    "icons": [{
+        "src": "/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }, {
+        "src": "/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "theme_color": "#0087fe",
+    "background_color": "#0087fe",
+    "display": "standalone"
+}
