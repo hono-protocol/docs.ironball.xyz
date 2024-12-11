@@ -14,7 +14,7 @@ IRONBALL Keys are exclusive NFTs that unlock a range of premium benefits and fea
    Key holders get **early access** to public launches, with minting windows opening 60 minutes before the general public. During this exclusive period, holders can mint up to 5% of the collection's supply (limited to one mint per key).
 3. **Flexible Refunds**\
    Holders of IRONBALL Keys can bypass standard lock periods and request refunds on any minted NFT at any time. This flexibility ensures unparalleled freedom in managing your investments.\
-   _(Note: Flexible refunds are not applicable to IRONBALL Key NFTs or IRONBALL Lottery tickets.)_
+   &#xNAN;_(Note: Flexible refunds are not applicable to IRONBALL Key NFTs or IRONBALL Lottery tickets.)_
 4. **Reduced Fees for Creators**\
    Creators with an IRONBALL Key enjoy a **fivefold reduction in protocol fees**. Upgrading the key eliminates these fees entirely, providing unmatched value and cost efficiency for creators.
 5. **Rarity and Prestige**\

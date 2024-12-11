@@ -24,7 +24,7 @@
 
 ***
 
-* [Terms of Service](<README (1).md>)
+* [Terms of Service](terms-of-service.md)
 * [Risks Disclosure Statement](risks-disclosure-statement.md)
 * [Privacy Notice](privacy-notice.md)
 * [Legal Notice](legal-notice.md)

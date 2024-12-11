@@ -2,7 +2,7 @@
 
 **Last Updated on 20 November 2024**
 
-This Risk Disclosure Statement is a part of and to be read in conjunction with the IRONBALL [Terms of Service](<README (1).md>). Capitalised terms used in this Risk Disclosure Statement shall have the meanings assigned to them in the IRONBALL Terms of Service.
+This Risk Disclosure Statement is a part of and to be read in conjunction with the IRONBALL [Terms of Service](broken-reference). Capitalised terms used in this Risk Disclosure Statement shall have the meanings assigned to them in the IRONBALL Terms of Service.
 
 ### Experimental Nature
 
