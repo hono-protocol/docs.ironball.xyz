@@ -8,10 +8,16 @@
       existingCanonical.remove();
     }
 
+    // Remove existing og:url meta tag
+    let existingOgUrlMeta = document.querySelector('meta[property="og:url"]');
+    if (existingOgUrlMeta) {
+      existingOgUrlMeta.remove();
+    }
+
     // Get the current Docsify page path from the `data-page` attribute
     const page = document.body.getAttribute('data-page');
     if (!page) {
-      console.warn('No data-page attribute found on body. Cannot set canonical.');
+      console.warn('No data-page attribute found on body. Cannot set canonical or og:url.');
       return;
     }
 
@@ -28,7 +34,14 @@
     canonical.href = canonicalURL;
     document.head.appendChild(canonical);
 
+    // Create and append the og:url meta tag
+    const ogUrlMeta = document.createElement('meta');
+    ogUrlMeta.setAttribute('property', 'og:url');
+    ogUrlMeta.setAttribute('content', canonicalURL);
+    document.head.appendChild(ogUrlMeta);
+
     console.log('Canonical URL set to:', canonicalURL); // Debugging log
+    console.log('og:url meta tag set to:', canonicalURL); // Debugging log
   }
 
   function canonicalPlugin(hook) {
