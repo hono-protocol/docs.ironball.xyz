@@ -15,6 +15,8 @@
 * [Creating an NFT Collection](platform/creating-an-nft-collection.md)
 * [Unique Images with IPFS](platform/unique-images-with-ipfs.md)
 * [Minting an NFT](platform/minting-an-nft.md)
+* [Refunding an NFT](platform/refunding-an-nft.md)
+* [Upgrading an NFT](platform/upgrading-an-nft.md)
 * [Boosting an NFT collection](platform/boosting-an-nft-collection.md)
 
 ## Benefits
