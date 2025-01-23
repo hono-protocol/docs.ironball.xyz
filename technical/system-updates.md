@@ -1,6 +1,21 @@
 # System Updates
 
-#### 14 Dec 2024: Beta Launch
+#### 23 Jan 2025: Public Preview
+
+Bug fixes:
+
+* cross-chain refund & upgrade
+* lottery claim prize & tvl display
+
+Features:
+
+* upgrade NFT
+
+Changes:
+
+* removed IRONBALL Lottery: bridging to arbitrum & base feature
+
+#### 14 Dec 2024: Internal Preview
 
 Bug fixes:
 
