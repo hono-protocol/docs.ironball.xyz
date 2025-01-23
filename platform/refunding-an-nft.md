@@ -6,7 +6,7 @@ Follow these steps to refund your NFT:
 
 On the **top right-hand corner**, under your profile, select **"My NFTs"**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-23 at 1.30.35 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-01-23 at 1.30.35 PM.png" alt="" width="355"><figcaption></figcaption></figure>
 
 #### Step 2:
 
@@ -39,4 +39,4 @@ Click the **"Refund #\[NFT ID]"** button to trigger the refund process and appro
 Receive your refund:
 
 * For **typical collections**, refunds will be issued in **stETH** (Contract Address: `0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84`).
-* For **IRONBALL keys**, refunds will be in the form of **xHONO**.
+* For **IRONBALL keys**, refunds will be in the form of **xHONO** (Contract Address: `0x74e4C18Eb9D7390f6Bf7BC477d94B51608366048`)

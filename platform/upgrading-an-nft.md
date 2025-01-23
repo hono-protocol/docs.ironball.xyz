@@ -6,7 +6,7 @@ Follow these steps to upgrade your NFT:
 
 On the **top right-hand corner**, under your profile, select **"My NFTs"**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-23 at 1.30.35 PM.png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/Screenshot 2025-01-23 at 1.30.35 PM.png" alt="" width="355"><figcaption></figcaption></figure></div>
 
 #### Step 2:
 
