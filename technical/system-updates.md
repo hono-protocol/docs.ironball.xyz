@@ -1,5 +1,20 @@
 # System Updates
 
+#### 3 Feb 2025: patch
+
+Bug fixes:
+
+* 0 display error for lottery draw&#x20;
+* 0 display error for lottery leaderboard cummulative winnings
+
+Features:
+
+* automatic claim for INUKO fund account
+
+Changes:
+
+* nil
+
 #### 23 Jan 2025: Public Preview
 
 Bug fixes:
